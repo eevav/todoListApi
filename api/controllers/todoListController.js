@@ -1,4 +1,4 @@
-strict';
+strict;
 
 
 var mongoose = require('mongoose'),
